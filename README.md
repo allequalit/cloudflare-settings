@@ -1,1 +1,2 @@
-# cloudflare-settings
+# 웹서버의 디도스 방어와 보안 향상을 적용하기 위한 클라우드플레어 설정 방법
+https://xetown.com/topics/1238717
